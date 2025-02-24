@@ -1,5 +1,6 @@
 About me:
 "I'm Abdul Samad Mahmoodi, an AWS Certified Solutions Architect passionate about DevOps, Cloud Engineering, and CI/CD automation. I love building scalable cloud solutions using AWS, Terraform, Kubernetes, and Docker."
+![image](https://github.com/user-attachments/assets/221f356e-86d1-4b3a-9370-326e18e570a7)
 
 🚀 AWS | DevOps | Cloud Engineer
 
